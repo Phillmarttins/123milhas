@@ -1,0 +1,26 @@
+
+
+
+
+
+#AP30
+{
+  Clearsale: 90 Valor<3000
+
+} 
+
+#AP10
+{
+  Konduto Aprovar: Valor<2000<>
+} 
+
+
+#Lançar_todos_os_pedidos 
+
+{
+  VALOR:  >R$2.000,00 
+   AP: -12
+
+}
+
+998972710
